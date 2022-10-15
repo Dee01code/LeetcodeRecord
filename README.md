@@ -9,6 +9,7 @@
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|36 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[C++](./solutions/976.%20Largest%20Perimeter%20Triangle.cpp)|50 ms|
 |1328|[ Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[C++](./solutions/1328.%20Break%20a%20Palindrome.cpp)|7 ms|
+|1531|[ String Compression II](https://leetcode.com/problems/string-compression-ii/)|[C++](./solutions/1531.%20String%20Compression%20II.cpp)|52 ms|
 |1855|[ Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)|[C++](./solutions/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.cpp)|553 ms|
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[C++](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.cpp)|2136 ms|
 |2432|[ The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/)|[C++](./solutions/2432.%20The%20Employee%20That%20Worked%20on%20the%20Longest%20Task.cpp)|172 ms|
