@@ -14,3 +14,4 @@
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[C++](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.cpp)|2136 ms|
 |2432|[ The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/)|[C++](./solutions/2432.%20The%20Employee%20That%20Worked%20on%20the%20Longest%20Task.cpp)|172 ms|
 |2433|[ Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)|[C++](./solutions/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.cpp)|325 ms|
+|2437|[ Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/)|[C++](./solutions/2437.%20Number%20of%20Valid%20Clock%20Times.cpp)|2 ms|
