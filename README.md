@@ -15,3 +15,4 @@
 |2432|[ The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/)|[C++](./solutions/2432.%20The%20Employee%20That%20Worked%20on%20the%20Longest%20Task.cpp)|172 ms|
 |2433|[ Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)|[C++](./solutions/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.cpp)|325 ms|
 |2437|[ Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/)|[C++](./solutions/2437.%20Number%20of%20Valid%20Clock%20Times.cpp)|2 ms|
+|2441|[ Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[C++](./solutions/2441.%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.cpp)|75 ms|
