@@ -16,3 +16,4 @@
 |2433|[ Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)|[C++](./solutions/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.cpp)|325 ms|
 |2437|[ Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/)|[C++](./solutions/2437.%20Number%20of%20Valid%20Clock%20Times.cpp)|2 ms|
 |2441|[ Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|[C++](./solutions/2441.%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.cpp)|75 ms|
+|2442|[ Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/)|[C++](./solutions/2442.%20Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations.cpp)|666 ms|
