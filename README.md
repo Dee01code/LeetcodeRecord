@@ -26,3 +26,4 @@
 |2443|[ Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/)|[C++](./solutions/2443.%20Sum%20of%20Number%20and%20Its%20Reverse.cpp)|76 ms|
 |2447|[ Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/)|[C++](./solutions/2447.%20Number%20of%20Subarrays%20With%20GCD%20Equal%20to%20K.cpp)|49 ms|
 |2451|[ Odd String Difference](https://leetcode.com/problems/odd-string-difference/)|[C++](./solutions/2451.%20Odd%20String%20Difference.cpp)|5 ms|
+|2452|[ Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/)|[C++](./solutions/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.cpp)|35 ms|
