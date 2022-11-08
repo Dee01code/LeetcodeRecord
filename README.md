@@ -15,6 +15,7 @@
 |1323|[ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[C++](./solutions/1323.%20Maximum%2069%20Number.cpp)|0 ms|
 |1328|[ Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[C++](./solutions/1328.%20Break%20a%20Palindrome.cpp)|7 ms|
 |1531|[ String Compression II](https://leetcode.com/problems/string-compression-ii/)|[C++](./solutions/1531.%20String%20Compression%20II.cpp)|52 ms|
+|1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[C++](./solutions/1544.%20Make%20The%20String%20Great.cpp)|3 ms|
 |1662|[ Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python3](./solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)|71 ms|
 |1828|[ Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[C++](./solutions/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.cpp)|1093 ms|
 |1855|[ Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)|[C++](./solutions/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.cpp)|553 ms|
