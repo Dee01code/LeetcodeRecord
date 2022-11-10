@@ -12,6 +12,7 @@
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[C++](./solutions/645.%20Set%20Mismatch.cpp)|65 ms|
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|36 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[C++](./solutions/976.%20Largest%20Perimeter%20Triangle.cpp)|50 ms|
+|1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[C++](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|31 ms|
 |1323|[ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[C++](./solutions/1323.%20Maximum%2069%20Number.cpp)|0 ms|
 |1328|[ Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[C++](./solutions/1328.%20Break%20a%20Palindrome.cpp)|7 ms|
 |1531|[ String Compression II](https://leetcode.com/problems/string-compression-ii/)|[C++](./solutions/1531.%20String%20Compression%20II.cpp)|52 ms|
