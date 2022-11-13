@@ -34,3 +34,4 @@
 |2451|[ Odd String Difference](https://leetcode.com/problems/odd-string-difference/)|[C++](./solutions/2451.%20Odd%20String%20Difference.cpp)|5 ms|
 |2452|[ Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/)|[C++](./solutions/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.cpp)|35 ms|
 |2460|[ Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)|[C++](./solutions/2460.%20Apply%20Operations%20to%20an%20Array.cpp)|12 ms|
+|2470|[ Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)|[C++](./solutions/2470.%20Number%20of%20Subarrays%20With%20LCM%20Equal%20to%20K.cpp)|53 ms|
