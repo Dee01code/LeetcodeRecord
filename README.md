@@ -8,6 +8,7 @@
 |201|[ Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[C++](./solutions/201.%20Bitwise%20AND%20of%20Numbers%20Range.cpp)|31 ms|
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./solutions/219.%20Contains%20Duplicate%20II.cpp)|531 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|41 ms|
+|263|[ Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](./solutions/263.%20Ugly%20Number.cpp)|7 ms|
 |334|[ Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[C++](./solutions/334.%20Increasing%20Triplet%20Subsequence.cpp)|68 ms|
 |374|[ Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](./solutions/374.%20Guess%20Number%20Higher%20or%20Lower.cpp)|0 ms|
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[C++](./solutions/645.%20Set%20Mismatch.cpp)|65 ms|
