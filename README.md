@@ -19,6 +19,7 @@
 |538|[ Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[C++](./solutions/538.%20Convert%20BST%20to%20Greater%20Tree.cpp)|38 ms|
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[C++](./solutions/645.%20Set%20Mismatch.cpp)|65 ms|
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|36 ms|
+|926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[C++](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.cpp)|21 ms|
 |958|[ Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[C++](./solutions/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.cpp)|7 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[C++](./solutions/976.%20Largest%20Perimeter%20Triangle.cpp)|50 ms|
 |1038|[ Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[C++](./solutions/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.cpp)|0 ms|
