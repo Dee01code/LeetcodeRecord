@@ -51,3 +51,4 @@
 |2491|[ Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)|[C++](./solutions/2491.%20Divide%20Players%20Into%20Teams%20of%20Equal%20Skill.cpp)|2417 ms|
 |2544|[ Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)|[C++](./solutions/2544.%20Alternating%20Digit%20Sum.cpp)|5 ms|
 |2545|[ Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[C++](./solutions/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.cpp)|66 ms|
+|2546|[ Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/)|[C++](./solutions/2546.%20Apply%20Bitwise%20Operations%20to%20Make%20Strings%20Equal.cpp)|65 ms|
