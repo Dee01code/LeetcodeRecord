@@ -49,4 +49,5 @@
 |2460|[ Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)|[C++](./solutions/2460.%20Apply%20Operations%20to%20an%20Array.cpp)|12 ms|
 |2470|[ Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/)|[C++](./solutions/2470.%20Number%20of%20Subarrays%20With%20LCM%20Equal%20to%20K.cpp)|53 ms|
 |2491|[ Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)|[C++](./solutions/2491.%20Divide%20Players%20Into%20Teams%20of%20Equal%20Skill.cpp)|2417 ms|
+|2544|[ Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)|[C++](./solutions/2544.%20Alternating%20Digit%20Sum.cpp)|5 ms|
 |2545|[ Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[C++](./solutions/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.cpp)|66 ms|
