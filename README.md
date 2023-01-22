@@ -19,6 +19,7 @@
 |538|[ Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[C++](./solutions/538.%20Convert%20BST%20to%20Greater%20Tree.cpp)|38 ms|
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[C++](./solutions/645.%20Set%20Mismatch.cpp)|65 ms|
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|36 ms|
+|791|[ Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[C++](./solutions/791.%20Custom%20Sort%20String.cpp)|4 ms|
 |926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[C++](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.cpp)|21 ms|
 |958|[ Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[C++](./solutions/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.cpp)|7 ms|
 |974|[ Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[C++](./solutions/974.%20Subarray%20Sums%20Divisible%20by%20K.cpp)|47 ms|
