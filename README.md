@@ -34,6 +34,7 @@
 |1662|[ Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python3](./solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py)|71 ms|
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[C++](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)|43 ms|
 |1828|[ Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[C++](./solutions/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.cpp)|1093 ms|
+|1854|[ Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)|[C++](./solutions/1854.%20Maximum%20Population%20Year.cpp)|8 ms|
 |1855|[ Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)|[C++](./solutions/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.cpp)|553 ms|
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[C++](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.cpp)|2136 ms|
 |2131|[ Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)|[C++](./solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.cpp)|1140 ms|
