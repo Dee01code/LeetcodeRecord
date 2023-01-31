@@ -12,6 +12,7 @@
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./solutions/219.%20Contains%20Duplicate%20II.cpp)|531 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|41 ms|
 |263|[ Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](./solutions/263.%20Ugly%20Number.cpp)|7 ms|
+|304|[ Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[C++](./solutions/304.%20Range%20Sum%20Query%202D%20-%20Immutable.cpp)|452 ms|
 |334|[ Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[C++](./solutions/334.%20Increasing%20Triplet%20Subsequence.cpp)|68 ms|
 |374|[ Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](./solutions/374.%20Guess%20Number%20Higher%20or%20Lower.cpp)|0 ms|
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[C++](./solutions/451.%20Sort%20Characters%20By%20Frequency.cpp)|18 ms|
