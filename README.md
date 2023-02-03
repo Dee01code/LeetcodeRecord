@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|6|[ Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](./solutions/6.%20Zigzag%20Conversion.cpp)|11 ms|
 |22|[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./solutions/22.%20Generate%20Parentheses.cpp)|3 ms|
 |25|[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](./solutions/25.%20Reverse%20Nodes%20in%20k-Group.cpp)|18 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|86 ms|
