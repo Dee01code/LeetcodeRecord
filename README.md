@@ -64,3 +64,4 @@
 |2544|[ Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)|[C++](./solutions/2544.%20Alternating%20Digit%20Sum.cpp)|5 ms|
 |2545|[ Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)|[C++](./solutions/2545.%20Sort%20the%20Students%20by%20Their%20Kth%20Score.cpp)|66 ms|
 |2546|[ Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/)|[C++](./solutions/2546.%20Apply%20Bitwise%20Operations%20to%20Make%20Strings%20Equal.cpp)|65 ms|
+|2554|[ Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/)|[C++](./solutions/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.cpp)|229 ms|
