@@ -3,32 +3,38 @@ class Solution
     public:
         string frequencySort(string s)
         {
-            map<char, int> m;
+​
+            priority_queue<pair<int, char>> p;
+​
+            unordered_map<char, int> m;
+​
             for (auto i: s)
             {
                 m[i]++;
             }
-            map<int, vector < char>> m2;
+​
             for (auto i: m)
             {
-                // cout << i.first << i.second;
-                m2[i.second].push_back(i.first);
-            }
-            // cout << endl;
-            string ans = "";
-            for (auto i: m2)
-            {
-                // cout << i.first << i.second <<" ";  
-                int j = i.first;
-                for (auto k: i.second)
+                if (i.second > 0)
                 {
-                    int num = j;
-                    while (num--)
-                    {
-                        ans += k;
-                    }
+                    pair<int, char> temp = { i.second,
+                        i.first
+                    };
+                    p.push(temp);
                 }
             }
-            reverse(ans.begin(), ans.end());
+​
+            string ans = "";
+​
+            while (!p.empty())
+            {
+                pair<int, char> temp = p.top();
+                p.pop();
+                for (int i = 0; i < temp.first; i++)
+                {
+                    ans += temp.second;
+                }
+            }
             return ans;
         }
+};
