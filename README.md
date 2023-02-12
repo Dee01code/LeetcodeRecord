@@ -72,3 +72,4 @@
 |2554|[ Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/)|[C++](./solutions/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.cpp)|229 ms|
 |2558|[ Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)|[C++](./solutions/2558.%20Take%20Gifts%20From%20the%20Richest%20Pile.cpp)|15 ms|
 |2559|[ Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[C++](./solutions/2559.%20Count%20Vowel%20Strings%20in%20Ranges.cpp)|172 ms|
+|2562|[ Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/)|[C++](./solutions/2562.%20Find%20the%20Array%20Concatenation%20Value.cpp)|89 ms|
