@@ -79,3 +79,4 @@
 |2559|[ Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|[C++](./solutions/2559.%20Count%20Vowel%20Strings%20in%20Ranges.cpp)|172 ms|
 |2562|[ Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/)|[C++](./solutions/2562.%20Find%20the%20Array%20Concatenation%20Value.cpp)|89 ms|
 |2566|[ Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/)|[C++](./solutions/2566.%20Maximum%20Difference%20by%20Remapping%20a%20Digit.cpp)|0 ms|
+|2567|[ Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/)|[C++](./solutions/2567.%20Minimum%20Score%20by%20Changing%20Two%20Elements.cpp)|92 ms|
