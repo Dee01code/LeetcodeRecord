@@ -34,6 +34,7 @@
 |783|[ Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[C++](./solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes.cpp)|4 ms|
 |791|[ Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[C++](./solutions/791.%20Custom%20Sort%20String.cpp)|4 ms|
 |848|[ Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[C++](./solutions/848.%20Shifting%20Letters.cpp)|131 ms|
+|852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[C++](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|129 ms|
 |926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[C++](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.cpp)|21 ms|
 |953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[C++](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.cpp)|27 ms|
 |958|[ Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[C++](./solutions/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.cpp)|7 ms|
