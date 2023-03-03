@@ -6,6 +6,7 @@
 |6|[ Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](./solutions/6.%20Zigzag%20Conversion.cpp)|11 ms|
 |22|[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./solutions/22.%20Generate%20Parentheses.cpp)|3 ms|
 |25|[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](./solutions/25.%20Reverse%20Nodes%20in%20k-Group.cpp)|18 ms|
+|28|[ Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[C++](./solutions/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp)|0 ms|
 |45|[ Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](./solutions/45.%20Jump%20Game%20II.cpp)|15 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|86 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./solutions/76.%20Minimum%20Window%20Substring.cpp)|5 ms|
