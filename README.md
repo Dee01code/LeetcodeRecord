@@ -87,3 +87,4 @@
 |2567|[ Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/)|[C++](./solutions/2567.%20Minimum%20Score%20by%20Changing%20Two%20Elements.cpp)|92 ms|
 |2568|[ Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/)|[C++](./solutions/2568.%20Minimum%20Impossible%20OR.cpp)|241 ms|
 |2579|[ Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)|[C++](./solutions/2579.%20Count%20Total%20Number%20of%20Colored%20Cells.cpp)|28 ms|
+|2583|[ Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)|[C++](./solutions/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.cpp)|296 ms|
