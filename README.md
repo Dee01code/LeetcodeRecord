@@ -26,6 +26,7 @@
 |334|[ Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[C++](./solutions/334.%20Increasing%20Triplet%20Subsequence.cpp)|68 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./solutions/347.%20Top%20K%20Frequent%20Elements.cpp)|11 ms|
 |374|[ Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](./solutions/374.%20Guess%20Number%20Higher%20or%20Lower.cpp)|0 ms|
+|378|[ Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](./solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.cpp)|139 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|20 ms|
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[C++](./solutions/451.%20Sort%20Characters%20By%20Frequency.cpp)|13 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[C++](./solutions/520.%20Detect%20Capital.cpp)|2 ms|
