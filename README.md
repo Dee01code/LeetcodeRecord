@@ -96,3 +96,4 @@
 |2579|[ Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)|[C++](./solutions/2579.%20Count%20Total%20Number%20of%20Colored%20Cells.cpp)|28 ms|
 |2583|[ Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)|[C++](./solutions/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.cpp)|296 ms|
 |2586|[ Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/)|[C++](./solutions/2586.%20Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range.cpp)|27 ms|
+|2591|[ Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/)|[C++](./solutions/2591.%20Distribute%20Money%20to%20Maximum%20Children.cpp)|52 ms|
