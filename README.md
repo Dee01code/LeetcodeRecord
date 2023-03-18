@@ -97,3 +97,4 @@
 |2583|[ Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)|[C++](./solutions/2583.%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree.cpp)|296 ms|
 |2586|[ Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/)|[C++](./solutions/2586.%20Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range.cpp)|27 ms|
 |2591|[ Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/)|[C++](./solutions/2591.%20Distribute%20Money%20to%20Maximum%20Children.cpp)|52 ms|
+|2593|[ Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)|[C++](./solutions/2593.%20Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements.cpp)|1767 ms|
