@@ -100,3 +100,4 @@
 |2592|[ Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/)|[C++](./solutions/2592.%20Maximize%20Greatness%20of%20an%20Array.cpp)|125 ms|
 |2593|[ Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)|[C++](./solutions/2593.%20Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements.cpp)|1767 ms|
 |2595|[ Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)|[C++](./solutions/2595.%20Number%20of%20Even%20and%20Odd%20Bits.cpp)|3 ms|
+|2596|[ Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)|[C++](./solutions/2596.%20Check%20Knight%20Tour%20Configuration.cpp)|20 ms|
