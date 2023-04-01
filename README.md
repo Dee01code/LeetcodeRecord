@@ -105,3 +105,4 @@
 |2595|[ Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)|[C++](./solutions/2595.%20Number%20of%20Even%20and%20Odd%20Bits.cpp)|3 ms|
 |2596|[ Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)|[C++](./solutions/2596.%20Check%20Knight%20Tour%20Configuration.cpp)|20 ms|
 |2597|[ The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/)|[C++](./solutions/2597.%20The%20Number%20of%20Beautiful%20Subsets.cpp)|1037 ms|
+|2605|[ Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)|[C++](./solutions/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.cpp)|3 ms|
