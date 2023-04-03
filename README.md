@@ -108,4 +108,5 @@
 |2597|[ The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/)|[C++](./solutions/2597.%20The%20Number%20of%20Beautiful%20Subsets.cpp)|1037 ms|
 |2605|[ Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)|[C++](./solutions/2605.%20Form%20Smallest%20Number%20From%20Two%20Digit%20Arrays.cpp)|3 ms|
 |2606|[ Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)|[C++](./solutions/2606.%20Find%20the%20Substring%20With%20Maximum%20Cost.cpp)|795 ms|
+|2610|[ Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)|[C++](./solutions/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.cpp)|16 ms|
 |2611|[ Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)|[C++](./solutions/2611.%20Mice%20and%20Cheese.cpp)|971 ms|
