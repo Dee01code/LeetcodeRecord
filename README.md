@@ -72,6 +72,7 @@
 |2131|[ Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)|[C++](./solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.cpp)|1140 ms|
 |2136|[ Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)|[C++](./solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom.cpp)|664 ms|
 |2381|[ Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)|[C++](./solutions/2381.%20Shifting%20Letters%20II.cpp)|439 ms|
+|2405|[ Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)|[C++](./solutions/2405.%20Optimal%20Partition%20of%20String.cpp)|87 ms|
 |2432|[ The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/)|[C++](./solutions/2432.%20The%20Employee%20That%20Worked%20on%20the%20Longest%20Task.cpp)|172 ms|
 |2433|[ Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)|[C++](./solutions/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.cpp)|325 ms|
 |2437|[ Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/)|[C++](./solutions/2437.%20Number%20of%20Valid%20Clock%20Times.cpp)|2 ms|
