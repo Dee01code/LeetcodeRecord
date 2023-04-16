@@ -113,5 +113,6 @@
 |2606|[ Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)|[C++](./solutions/2606.%20Find%20the%20Substring%20With%20Maximum%20Cost.cpp)|795 ms|
 |2610|[ Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)|[C++](./solutions/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.cpp)|16 ms|
 |2611|[ Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)|[C++](./solutions/2611.%20Mice%20and%20Cheese.cpp)|971 ms|
+|2639|[ Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)|[C++](./solutions/2639.%20Find%20the%20Width%20of%20Columns%20of%20a%20Grid.cpp)|31 ms|
 |2644|[ Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/)|[C++](./solutions/2644.%20Find%20the%20Maximum%20Divisibility%20Score.cpp)|759 ms|
 |2645|[ Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/)|[C++](./solutions/2645.%20Minimum%20Additions%20to%20Make%20Valid%20String.cpp)|0 ms|
