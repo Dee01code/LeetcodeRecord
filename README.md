@@ -72,6 +72,7 @@
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[C++](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.cpp)|2136 ms|
 |2131|[ Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)|[C++](./solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.cpp)|1140 ms|
 |2136|[ Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)|[C++](./solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom.cpp)|664 ms|
+|2336|[ Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)|[C++](./solutions/2336.%20Smallest%20Number%20in%20Infinite%20Set.cpp)|139 ms|
 |2381|[ Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/)|[C++](./solutions/2381.%20Shifting%20Letters%20II.cpp)|439 ms|
 |2405|[ Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)|[C++](./solutions/2405.%20Optimal%20Partition%20of%20String.cpp)|87 ms|
 |2432|[ The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/)|[C++](./solutions/2432.%20The%20Employee%20That%20Worked%20on%20the%20Longest%20Task.cpp)|172 ms|
