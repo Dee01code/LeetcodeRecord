@@ -119,3 +119,4 @@
 |2644|[ Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/)|[C++](./solutions/2644.%20Find%20the%20Maximum%20Divisibility%20Score.cpp)|759 ms|
 |2645|[ Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/)|[C++](./solutions/2645.%20Minimum%20Additions%20to%20Make%20Valid%20String.cpp)|0 ms|
 |2657|[ Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[C++](./solutions/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.cpp)|63 ms|
+|2658|[ Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/)|[C++](./solutions/2658.%20Maximum%20Number%20of%20Fish%20in%20a%20Grid.cpp)|631 ms|
